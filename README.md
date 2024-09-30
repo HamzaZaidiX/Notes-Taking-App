@@ -1,9 +1,9 @@
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/52501040/207662627-00e531fa-fe7e-4296-975a-9f849727db68.PNG" alt="blog world" width="50px" height="50px" /> Notes Taking App -AKA- `Blog World`🌏📝</h1>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/52501040/207662627-00e531fa-fe7e-4296-975a-9f849727db68.PNG" alt="blog world" width="50px" height="50px" /> Blogs Writing Website -AKA- `Blog World`🌏📝</h1>
 
-**This Project is build with `React JS` inspired me to make `Notes Taking App 📝` named as `Blog World 🌏`. In this app you can `Write any Blog or Note` with your Markdown `Title and Description` and `Create or Add new Tags` which you can `Search your Blogs & Notes By Titles and Tags` and `Edit again After your Blog or Note` is  also Saved on `Local Storage`.** 🚀
+**This Project is build with `React JS` inspired me to make `Blogs Writing Web-App 📝` named as `Blog World 🌏`. In this app you can `Write any Blog` with your Markdown `Title and Description` and `Create or Add new Tags` which you can `Search your Blogs By Titles and Tags` and `Edit again After your Blogs` is  also Saved on `Local Storage`.** 🚀
 
 
-<h2 align="center"><a href="https://blog-world-shjz.vercel.app/">Live Demo 🌏</a></h2>
+<h2 align="center"><a href="https://blogworld123.netlify.app/">Live Demo 🌏</a></h2>
 
 ### 🌏 Features:
 
